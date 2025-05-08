@@ -25,7 +25,7 @@ end
 
 -------------------------------------------------------------- CONSTANTS
 local BASE       = {speed = 140, dmg = 4, fireDelay = 0.30, bulletSpd = 400}
-local BUILD_TIME = 5             -- seconds between waves
+local BUILD_TIME = 10             -- seconds between waves
 local SLOTS      = {"head", "chassis", "leftArm", "rightArm", "legs"}
 
 -------------------------------------------------------------- PART LIBRARY
