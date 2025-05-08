@@ -1,0 +1,45 @@
+# Scrap Bots
+
+## Getting Started
+You spawn inside a snug arena as a cobbled-together combat bot with a pea-shooter and **100 HP**.  
+Move with **W A S D**, aim with the mouse, and hold **Left-Click** to fire.  
+Every enemy you destroy refunds **5 HP**—aggression literally keeps you alive.
+
+## The Combat Phase
+Each wave unleashes a pack of drones that sprint straight toward you.  
+Contact costs **15 HP**, but a built-in **0.6 s** invulnerability after every hit prevents insta-death.  
+Kite the mob, keep the bullets flowing, and watch your health seesaw upward as kills roll in.
+
+## The Build Phase
+Once the arena is clear, the game flips to a **12-second breather**.  
+One glowing part drops in the centre—walk over it to scoop it into your backpack.  
+Press the number keys to socket items:
+
+* **1** Head  **2** Chassis  **3** Left Arm  **4** Right Arm  **5** Legs  
+
+Installed parts are permanent for the run; when the timer hits zero the next wave begins.
+
+## Body-Part Timeline
+| Wave | Part | Boost |
+|------|------|-------|
+| 1 | **Laser Arm** (cyan) | Piercing hitscan beam on a rapid cooldown |
+| 2 | **Light Chassis** (orange) | +100 HP (total cap = 200) & +30 speed |
+| 3 | **Booster Legs** (green) | +45 speed for slick dodging |
+| 4 | **Blaster Arm** (purple) | 5-pellet shotgun spread |
+| 5 | **Radar Head** (blue) | −0.05 s fire-delay (~20 % faster fire rate) |
+
+### Full-Set Power Surge  
+With **all five** slots filled every shot also fires:
+
+* three piercing laser beams in a fan  
+* a seven-bullet scatter burst  
+
+Crowds evaporate; the arena rains scrap.
+
+## Boss Showdown — Wave 6
+A towering magenta summoner appears, rooted in place.  
+Every **3 s** it belches **15 minions** from random edges—ignore the boss until you thin the swarm.  
+Then pour on your laser-fan scatter combo. Its **40 000 HP** melts under sustained fire.
+
+## Survive, Restart, Repeat
+Use kill-heals to stay topped up, leverage your speed buffs to outrun danger, and press **R** after any **YOU DIED** or **BOSS DOWN** banner to dive straight back into wave 1 for another scrap-bot sprint.
